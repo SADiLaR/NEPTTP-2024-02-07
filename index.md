@@ -4,8 +4,8 @@ layout: workshop      # DON'T CHANGE THIS.
 address: "MSL 108, Mathematical Sciences Laboratories, Mathematical Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "-26.175525"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "28.2483343"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "-26.190480"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "28.026833"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "23-25 February 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "23-25 February: 09:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-02-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
