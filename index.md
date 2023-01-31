@@ -6,11 +6,11 @@ country: "za"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-26.190480"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "28.026833"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "23-25 February 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "23-25 February: 09:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2022-02-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-02-25         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Mmasibidi Setaka", "Benito Trollip", "Juan Steyn"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "15- 17 February 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "15-17 February: 09:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-02-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-02-17         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Mmasibidi Setaka", "Benito Trollip", "Juan Steyn", "Nomalungelo Maphanga", "Inonge Lupinda"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 #helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["juan.steyn@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-02-23-NEPTTP       # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
